@@ -1,0 +1,29 @@
+[
+  {
+    "user_id": 1,
+    "first_name": "sabreen",
+    "last_name": "salama",
+    "email": "sa@gmail.com",
+    "password": "1234",
+    "confirm_password": "1234",
+    "phone": "01122661983"
+  },
+  {
+    "user_id": 2,
+    "first_name": "warda",
+    "last_name": "salama",
+    "email": "wa@gmail.com",
+    "password": "1234",
+    "confirm_password": "1234",
+    "phone": "01122661983"
+  },
+  {
+    "user_id": 3,
+    "first_name": "soha",
+    "last_name": "ali",
+    "email": "soha@gmail.com",
+    "password": "1234",
+    "confirm_password": "1234",
+    "phone": "01122661983"
+  }
+]

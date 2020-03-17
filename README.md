@@ -5,11 +5,11 @@ crowd funding is a small console app  project using **python**  to start fundrai
 
 ```
 * Authentication Stsyem Sign up and Sign in
-* Authorized customer has the the ability to view all the fund projects
-* Authorized customer has the the ability to add  new  fundraise projects
-* Authorized customer has the the ability to edit his own projects only
-* Authorized customer has the the ability to delete his own project
-* Authorized customer has the the ability to searh for a project with the start date
+* Authorized user has the the ability to view all the fund projects
+* Authorized user has the the ability to add  new  fundraise projects
+* Authorized user has the the ability to edit his own projects only
+* Authorized user has the the ability to delete his own project
+* Authorized user has the the ability to searh for a project with the start date
 
 
 ```

@@ -6,7 +6,7 @@
     "email": "sa@gmail.com",
     "password": "1234",
     "confirm_password": "1234",
-    "phone": "01122661983"
+    "phone": "01234567891"
   },
   {
     "user_id": 2,
@@ -15,7 +15,7 @@
     "email": "wa@gmail.com",
     "password": "1234",
     "confirm_password": "1234",
-    "phone": "01122661983"
+    "phone": "01234567891"
   },
   {
     "user_id": 3,
@@ -24,6 +24,6 @@
     "email": "soha@gmail.com",
     "password": "1234",
     "confirm_password": "1234",
-    "phone": "01122661983"
+    "phone": "01234567891"
   }
 ]

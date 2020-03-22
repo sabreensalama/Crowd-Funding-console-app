@@ -1,0 +1,11 @@
+pipeline {
+    agent master
+
+    stages {
+        stage('just testing') {
+            steps {
+                ls -l
+            }
+        }
+    }
+}
